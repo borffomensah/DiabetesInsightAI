@@ -6,7 +6,8 @@ The project leverages statistical analysis and machine learning techniques to ac
 
 # Key Features of Diabetes Detection
 
-# Data Preprocessing: Cleaning, handling missing values, and transforming raw patient data into a suitable format for analysis.
+# Data Preprocessing:
+Cleaning, handling missing values, and transforming raw patient data into a suitable format for analysis.
 # Exploratory Data Analysis (EDA): 
 Visualizing correlations, distributions, and patterns in diabetes-related health indicators.
 # Model Development:
