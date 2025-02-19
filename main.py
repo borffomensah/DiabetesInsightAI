@@ -16,10 +16,13 @@ except Exception as e:
 st.title("Diabetes Detection App")
 
 st.image(
-    "/workspaces/Diabetes-Detection/diabe.png",  # Path to your image
-    caption="Early detection of diabetes is crucial for better health management.",
+    "https://kofikrom.com/wp-content/uploads/2023/11/Diabetes-Causes-Types-Prevention-Kofikrom-Pharmacy-Limited.png",
     use_container_width=True
 )
+
+# Add bold caption
+st.markdown("**Early detection of diabetes is crucial for better health management.**")
+
 
 # Sidebar options for input
 st.sidebar.header("Input Options")
