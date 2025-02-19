@@ -16,7 +16,7 @@ except Exception as e:
 st.title("Diabetes Detection App")
 
 st.image(
-    "C:\\Users\\ACER\\Desktop\\DIABETES\\DEPLOYMENT\\cdc.jpg",  # Path to your image
+    "/workspaces/Diabetes-Detection/diabe.png",  # Path to your image
     caption="Early detection of diabetes is crucial for better health management.",
     use_container_width=True
 )
@@ -112,4 +112,4 @@ elif option == "Upload CSV":
         except Exception as e:
             st.error(f"Error reading or processing the CSV file: {e}")
     else:
-        st.info("Please upload a CSV file to display the data.")
+        st.info("Please upload a CSV file to display the data.") 
