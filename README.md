@@ -53,5 +53,6 @@ Visualized feature importance and model confidence in predictions.
 The project demonstrated the effectiveness of machine learning models in detecting diabetes risk based on health parameters. The best-performing model achieved high accuracy and reliability, making it a valuable tool for early diabetes detection. These insights can assist healthcare professionals and individuals in making informed decisions about diabetes management.
 
 # Deployment with Streamlit
-The model was deployed on Streamlit, providing an interactive web application for users to input their health data and receive real-time predictions. The app is designed for accessibility and ease of use. Attached is the link to the Streamlit app.
-https://diabetes-detection-2024.streamlit.app/
+The model was deployed on Streamlit, providing an interactive web application for users to input their health data and receive real-time predictions. The app is designed for accessibility and ease of use. Attached is the link to the 
+# Deployment 
+The app was the deployed on the streamlit cloud https://diabetes-detection-2024.streamlit.app/
